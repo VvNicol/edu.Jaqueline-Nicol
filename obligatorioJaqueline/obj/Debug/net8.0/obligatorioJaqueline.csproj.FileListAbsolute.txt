@@ -1,0 +1,14 @@
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\bin\Debug\net8.0\obligatorioJaqueline.exe
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\bin\Debug\net8.0\obligatorioJaqueline.deps.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\bin\Debug\net8.0\obligatorioJaqueline.runtimeconfig.json
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\bin\Debug\net8.0\obligatorioJaqueline.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\bin\Debug\net8.0\obligatorioJaqueline.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.AssemblyInfoInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.AssemblyInfo.cs
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.csproj.CoreCompileInputs.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\refint\obligatorioJaqueline.dll
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.pdb
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\obligatorioJaqueline.genruntimeconfig.cache
+C:\Users\csi23-nrojlla\Documents\C# proyectos clase\obligatorioJaqueline\obj\Debug\net8.0\ref\obligatorioJaqueline.dll
